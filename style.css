@@ -1,0 +1,26 @@
+body
+{
+background-position: center;
+background-size: cover;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+font-family: Phosphate;
+}
+
+#status , #number_of_objects
+{
+font-size: 18px;
+font-family: Helvetica Neue;
+}
+
+canvas
+{
+box-shadow: 6px 6px 6px navajowhite;
+border-radius: 10px;
+margin-top: 180px;
+}
